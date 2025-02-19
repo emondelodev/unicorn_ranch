@@ -1,4 +1,4 @@
-package com.example.verygoodcore.very_good_ranch
+package com.example.verygoodcore.unicorn_ranch
 
 import io.flutter.embedding.android.FlutterActivity
 

@@ -5,9 +5,9 @@ import 'package:flame/extensions.dart';
 import 'package:flame_bloc/flame_bloc.dart';
 import 'package:ranch_components/ranch_components.dart';
 import 'package:ranch_flame/ranch_flame.dart';
-import 'package:very_good_ranch/config.dart';
-import 'package:very_good_ranch/game/entities/unicorn/unicorn.dart';
-import 'package:very_good_ranch/game/game.dart';
+import 'package:unicorn_ranch/config.dart';
+import 'package:unicorn_ranch/game/entities/unicorn/unicorn.dart';
+import 'package:unicorn_ranch/game/game.dart';
 
 class UnicornSpawner extends Component
     with

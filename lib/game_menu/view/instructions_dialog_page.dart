@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:ranch_ui/ranch_ui.dart';
-import 'package:very_good_ranch/game_menu/view/game_menu_dialog.dart';
-import 'package:very_good_ranch/l10n/l10n.dart';
+import 'package:unicorn_ranch/game_menu/view/game_menu_dialog.dart';
+import 'package:unicorn_ranch/l10n/l10n.dart';
 
 class InstructionsDialogPage extends StatelessWidget {
   const InstructionsDialogPage({super.key});

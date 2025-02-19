@@ -1,4 +1,4 @@
-name: very_good_ranch
+name: unicorn_ranch
 
 on: [pull_request, push]
 

@@ -7,10 +7,10 @@ import 'package:flame_steering_behaviors/flame_steering_behaviors.dart';
 import 'package:flutter/material.dart';
 import 'package:ranch_components/ranch_components.dart';
 import 'package:ranch_flame/ranch_flame.dart';
-import 'package:very_good_ranch/config.dart';
-import 'package:very_good_ranch/game/behaviors/behaviors.dart';
-import 'package:very_good_ranch/game/entities/entities.dart';
-import 'package:very_good_ranch/game/entities/unicorn/behaviors/behaviors.dart';
+import 'package:unicorn_ranch/config.dart';
+import 'package:unicorn_ranch/game/behaviors/behaviors.dart';
+import 'package:unicorn_ranch/game/entities/entities.dart';
+import 'package:unicorn_ranch/game/entities/unicorn/behaviors/behaviors.dart';
 
 /// A type signature for callbacks that are invoked during a lifecycle method
 /// of [Unicorn] that triggers the attachment or detachment of a gauge from the

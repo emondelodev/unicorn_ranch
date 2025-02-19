@@ -1,7 +1,7 @@
 import 'package:flame/collisions.dart';
 import 'package:flame/components.dart';
 import 'package:flame_behaviors/flame_behaviors.dart';
-import 'package:very_good_ranch/game/entities/entities.dart';
+import 'package:unicorn_ranch/game/entities/entities.dart';
 
 class DraggingBehavior extends DraggableBehavior<Food> with HasGameRef {
   @override

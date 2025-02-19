@@ -1,6 +1,6 @@
 import 'package:flame/components.dart';
 import 'package:flame_behaviors/flame_behaviors.dart';
-import 'package:very_good_ranch/game/entities/entities.dart';
+import 'package:unicorn_ranch/game/entities/entities.dart';
 
 class DespawningBehavior extends Behavior<Food> {
   DespawningBehavior({

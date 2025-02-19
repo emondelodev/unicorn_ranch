@@ -1,7 +1,7 @@
 import 'package:flame/components.dart';
 import 'package:flame_behaviors/flame_behaviors.dart';
-import 'package:very_good_ranch/config.dart';
-import 'package:very_good_ranch/game/entities/unicorn/unicorn.dart';
+import 'package:unicorn_ranch/config.dart';
+import 'package:unicorn_ranch/game/entities/unicorn/unicorn.dart';
 
 class EnjoymentDecreasingBehavior extends Behavior<Unicorn> {
   @override

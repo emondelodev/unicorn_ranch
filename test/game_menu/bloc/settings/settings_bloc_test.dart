@@ -2,7 +2,7 @@ import 'package:bloc_test/bloc_test.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:hydrated_bloc/hydrated_bloc.dart';
 import 'package:mockingjay/mockingjay.dart';
-import 'package:very_good_ranch/game_menu/game_menu.dart';
+import 'package:unicorn_ranch/game_menu/game_menu.dart';
 
 class MockStorage extends Mock implements Storage {}
 

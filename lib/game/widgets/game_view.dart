@@ -1,7 +1,7 @@
 import 'package:flame/game.dart';
 import 'package:flutter/material.dart';
-import 'package:very_good_ranch/game_menu/game_menu.dart';
-import 'package:very_good_ranch/l10n/l10n.dart';
+import 'package:unicorn_ranch/game_menu/game_menu.dart';
+import 'package:unicorn_ranch/l10n/l10n.dart';
 
 class GameView<GameType extends FlameGame> extends StatelessWidget {
   const GameView({super.key, required this.game});

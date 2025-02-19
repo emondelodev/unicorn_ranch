@@ -3,7 +3,7 @@ import 'package:flutter/widgets.dart';
 import 'package:ranch_components/ranch_components.dart';
 import 'package:ranch_flame/ranch_flame.dart';
 import 'package:ranch_sounds/ranch_sounds.dart';
-import 'package:very_good_ranch/loading/loading.dart';
+import 'package:unicorn_ranch/loading/loading.dart';
 
 class PreloadCubit extends Cubit<PreloadState> {
   PreloadCubit(this.images, this.sounds) : super(const PreloadState.initial());

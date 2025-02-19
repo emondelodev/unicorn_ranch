@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:mockingjay/mockingjay.dart';
-import 'package:very_good_ranch/game_menu/game_menu.dart';
-import 'package:very_good_ranch/game_menu/view/credits_dialog_page.dart';
-import 'package:very_good_ranch/game_menu/view/instructions_dialog_page.dart';
-import 'package:very_good_ranch/game_menu/view/settings_dialog_page.dart';
-import 'package:very_good_ranch/l10n/l10n.dart';
+import 'package:unicorn_ranch/game_menu/game_menu.dart';
+import 'package:unicorn_ranch/game_menu/view/credits_dialog_page.dart';
+import 'package:unicorn_ranch/game_menu/view/instructions_dialog_page.dart';
+import 'package:unicorn_ranch/game_menu/view/settings_dialog_page.dart';
+import 'package:unicorn_ranch/l10n/l10n.dart';
 
 import '../../helpers/helpers.dart';
 

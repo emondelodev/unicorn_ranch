@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:ranch_ui/ranch_ui.dart';
-import 'package:very_good_ranch/app/view/game_viewport.dart';
-import 'package:very_good_ranch/game/game.dart';
-import 'package:very_good_ranch/game_menu/game_menu.dart';
-import 'package:very_good_ranch/gen/assets.gen.dart';
-import 'package:very_good_ranch/l10n/l10n.dart';
+import 'package:unicorn_ranch/app/view/game_viewport.dart';
+import 'package:unicorn_ranch/game/game.dart';
+import 'package:unicorn_ranch/game_menu/game_menu.dart';
+import 'package:unicorn_ranch/gen/assets.gen.dart';
+import 'package:unicorn_ranch/l10n/l10n.dart';
 
 const _skyPercentageOnYAxis = 0.36;
 

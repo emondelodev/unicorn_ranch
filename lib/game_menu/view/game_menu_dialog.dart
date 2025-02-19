@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/scheduler.dart';
 import 'package:ranch_ui/ranch_ui.dart';
-import 'package:very_good_ranch/game_menu/view/credits_dialog_page.dart';
-import 'package:very_good_ranch/game_menu/view/instructions_dialog_page.dart';
-import 'package:very_good_ranch/game_menu/view/settings_dialog_page.dart';
+import 'package:unicorn_ranch/game_menu/view/credits_dialog_page.dart';
+import 'package:unicorn_ranch/game_menu/view/instructions_dialog_page.dart';
+import 'package:unicorn_ranch/game_menu/view/settings_dialog_page.dart';
 
 enum GameMenuRoute {
   settings,

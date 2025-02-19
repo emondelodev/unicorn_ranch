@@ -1,5 +1,5 @@
 import 'package:equatable/equatable.dart';
-import 'package:very_good_ranch/loading/cubit/cubit.dart';
+import 'package:unicorn_ranch/loading/cubit/cubit.dart';
 
 /// State for [PreloadCubit].
 class PreloadState extends Equatable {

@@ -1,5 +1,5 @@
 import 'package:flutter_test/flutter_test.dart';
-import 'package:very_good_ranch/loading/loading.dart';
+import 'package:unicorn_ranch/loading/loading.dart';
 
 void main() {
   group('PreloadState', () {

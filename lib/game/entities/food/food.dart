@@ -3,9 +3,9 @@ import 'package:flame/components.dart';
 import 'package:flame_behaviors/flame_behaviors.dart';
 import 'package:flutter/material.dart';
 import 'package:ranch_components/ranch_components.dart';
-import 'package:very_good_ranch/config.dart';
-import 'package:very_good_ranch/game/behaviors/behaviors.dart';
-import 'package:very_good_ranch/game/entities/food/behaviors/behaviors.dart';
+import 'package:unicorn_ranch/config.dart';
+import 'package:unicorn_ranch/game/behaviors/behaviors.dart';
+import 'package:unicorn_ranch/game/entities/food/behaviors/behaviors.dart';
 
 class Food extends Entity {
   Food({

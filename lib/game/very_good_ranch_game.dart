@@ -8,9 +8,9 @@ import 'package:flame_bloc/flame_bloc.dart';
 import 'package:flutter/material.dart';
 import 'package:ranch_components/ranch_components.dart';
 import 'package:ranch_flame/ranch_flame.dart';
-import 'package:very_good_ranch/game/bloc/blessing/blessing_bloc.dart';
-import 'package:very_good_ranch/game/entities/entities.dart';
-import 'package:very_good_ranch/game/spawners/spawners.dart';
+import 'package:unicorn_ranch/game/bloc/blessing/blessing_bloc.dart';
+import 'package:unicorn_ranch/game/entities/entities.dart';
+import 'package:unicorn_ranch/game/spawners/spawners.dart';
 
 class VeryGoodRanchGame extends FlameGame
     with HasDraggables, HasTappables, HasCollisionDetection, SeedGame {

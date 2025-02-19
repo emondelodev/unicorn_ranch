@@ -2,8 +2,8 @@ import 'package:flame/components.dart';
 import 'package:flame_behaviors/flame_behaviors.dart';
 import 'package:flutter/widgets.dart';
 import 'package:ranch_components/ranch_components.dart';
-import 'package:very_good_ranch/config.dart';
-import 'package:very_good_ranch/game/entities/entities.dart';
+import 'package:unicorn_ranch/config.dart';
+import 'package:unicorn_ranch/game/entities/entities.dart';
 
 class FoodCollidingBehavior extends CollisionBehavior<Food, Unicorn> {
   @override

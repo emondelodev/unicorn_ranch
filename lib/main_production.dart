@@ -5,8 +5,8 @@
 // license that can be found in the LICENSE file or at
 // https://opensource.org/licenses/MIT.
 
-import 'package:very_good_ranch/app/app.dart';
-import 'package:very_good_ranch/bootstrap.dart';
+import 'package:unicorn_ranch/app/app.dart';
+import 'package:unicorn_ranch/bootstrap.dart';
 
 void main() {
   bootstrap(() => const App());

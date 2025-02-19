@@ -90,11 +90,11 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.example.verygoodcore.very-good-ranch" "\0"
-            VALUE "FileDescription", "very_good_ranch" "\0"
+            VALUE "FileDescription", "unicorn_ranch" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "very_good_ranch" "\0"
+            VALUE "InternalName", "unicorn_ranch" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2022 com.example.verygoodcore.very-good-ranch. All rights reserved." "\0"
-            VALUE "OriginalFilename", "very_good_ranch.exe" "\0"
+            VALUE "OriginalFilename", "unicorn_ranch.exe" "\0"
             VALUE "ProductName", "Very Good Ranch" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END

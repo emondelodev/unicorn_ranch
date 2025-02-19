@@ -1,7 +1,7 @@
 import 'package:bloc_test/bloc_test.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:very_good_ranch/game/entities/entities.dart';
-import 'package:very_good_ranch/game/game.dart';
+import 'package:unicorn_ranch/game/entities/entities.dart';
+import 'package:unicorn_ranch/game/game.dart';
 
 void main() {
   group('BlessingBloc', () {

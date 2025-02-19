@@ -3,9 +3,9 @@ import 'package:flame/effects.dart';
 import 'package:flame_behaviors/flame_behaviors.dart';
 import 'package:flame_bloc/flame_bloc.dart';
 import 'package:flutter/widgets.dart';
-import 'package:very_good_ranch/config.dart';
-import 'package:very_good_ranch/game/bloc/blessing/blessing_bloc.dart';
-import 'package:very_good_ranch/game/entities/entities.dart';
+import 'package:unicorn_ranch/config.dart';
+import 'package:unicorn_ranch/game/bloc/blessing/blessing_bloc.dart';
+import 'package:unicorn_ranch/game/entities/entities.dart';
 
 class LeavingBehavior extends Behavior<Unicorn>
     with FlameBlocReader<BlessingBloc, BlessingState> {

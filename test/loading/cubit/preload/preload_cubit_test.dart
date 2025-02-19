@@ -5,7 +5,7 @@ import 'package:mocktail/mocktail.dart';
 import 'package:ranch_components/gen/assets.gen.dart' as components_assets;
 import 'package:ranch_flame/ranch_flame.dart';
 import 'package:ranch_sounds/ranch_sounds.dart';
-import 'package:very_good_ranch/loading/loading.dart';
+import 'package:unicorn_ranch/loading/loading.dart';
 
 class MockUnprefixedImages extends Mock implements UnprefixedImages {}
 

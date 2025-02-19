@@ -1,6 +1,6 @@
 import 'package:flame/components.dart';
 import 'package:flame_bloc/flame_bloc.dart';
-import 'package:very_good_ranch/game/game.dart';
+import 'package:unicorn_ranch/game/game.dart';
 
 import 'helpers.dart';
 

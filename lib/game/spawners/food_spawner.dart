@@ -5,9 +5,9 @@ import 'package:flame/extensions.dart';
 import 'package:flutter/foundation.dart';
 import 'package:ranch_components/ranch_components.dart';
 import 'package:ranch_flame/ranch_flame.dart';
-import 'package:very_good_ranch/config.dart';
-import 'package:very_good_ranch/game/entities/entities.dart';
-import 'package:very_good_ranch/game/entities/unicorn/behaviors/behaviors.dart';
+import 'package:unicorn_ranch/config.dart';
+import 'package:unicorn_ranch/game/entities/entities.dart';
+import 'package:unicorn_ranch/game/entities/unicorn/behaviors/behaviors.dart';
 
 typedef UnicornCount = int Function(UnicornEvolutionStage stage);
 

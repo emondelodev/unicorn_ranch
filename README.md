@@ -1,6 +1,6 @@
 <p align="center"><b>⚠️ Attention: This repository has been archived and is now read-only!</b></p>
 
-![icon](https://github.com/VeryGoodOpenSource/very_good_ranch/blob/main/web/img/share_image.png)
+![icon](https://github.com/VeryGoodOpenSource/unicorn_ranch/blob/main/web/img/share_image.png)
 
 # Very Good Ranch 🦄
 
@@ -106,7 +106,7 @@ This project relies on [flutter_localizations][flutter_localizations_link] and f
 3. Use the new string
 
 ```dart
-import 'package:very_good_ranch/l10n/l10n.dart';
+import 'package:unicorn_ranch/l10n/l10n.dart';
 
 @override
 Widget build(BuildContext context) {

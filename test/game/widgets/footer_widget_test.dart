@@ -4,7 +4,7 @@ import 'package:flutter_test/flutter_test.dart';
 import 'package:mocktail/mocktail.dart';
 
 import 'package:ranch_ui/ranch_ui.dart';
-import 'package:very_good_ranch/game/game.dart';
+import 'package:unicorn_ranch/game/game.dart';
 
 import '../../helpers/helpers.dart';
 

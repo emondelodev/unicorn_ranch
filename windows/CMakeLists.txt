@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.14)
-project(very_good_ranch LANGUAGES CXX)
+project(unicorn_ranch LANGUAGES CXX)
 
-set(BINARY_NAME "very_good_ranch")
+set(BINARY_NAME "unicorn_ranch")
 
 cmake_policy(SET CMP0063 NEW)
 

@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:ranch_ui/ranch_ui.dart';
-import 'package:very_good_ranch/app/view/game_viewport.dart';
-import 'package:very_good_ranch/gen/assets.gen.dart';
-import 'package:very_good_ranch/l10n/l10n.dart';
-import 'package:very_good_ranch/loading/cubit/cubit.dart';
-import 'package:very_good_ranch/title/view/title_page.dart';
+import 'package:unicorn_ranch/app/view/game_viewport.dart';
+import 'package:unicorn_ranch/gen/assets.gen.dart';
+import 'package:unicorn_ranch/l10n/l10n.dart';
+import 'package:unicorn_ranch/loading/cubit/cubit.dart';
+import 'package:unicorn_ranch/title/view/title_page.dart';
 
 class LoadingPage extends StatefulWidget {
   const LoadingPage({super.key});

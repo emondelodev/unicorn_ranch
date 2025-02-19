@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:very_good_ranch/app/view/game_viewport.dart';
+import 'package:unicorn_ranch/app/view/game_viewport.dart';
 
 void main() {
   group('GameViewport', () {

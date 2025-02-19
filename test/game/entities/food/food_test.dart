@@ -4,7 +4,7 @@ import 'package:flame/components.dart';
 import 'package:flame_test/flame_test.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:ranch_components/ranch_components.dart';
-import 'package:very_good_ranch/game/entities/food/food.dart';
+import 'package:unicorn_ranch/game/entities/food/food.dart';
 
 import '../../../helpers/helpers.dart';
 

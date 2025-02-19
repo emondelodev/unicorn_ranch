@@ -1,7 +1,7 @@
 import 'package:bloc/bloc.dart';
 import 'package:equatable/equatable.dart';
 import 'package:flutter/foundation.dart';
-import 'package:very_good_ranch/game/entities/entities.dart';
+import 'package:unicorn_ranch/game/entities/entities.dart';
 
 part 'blessing_event.dart';
 

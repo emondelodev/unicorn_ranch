@@ -2,7 +2,7 @@ import 'package:flame/game.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:ranch_ui/ranch_ui.dart';
-import 'package:very_good_ranch/game/game.dart';
+import 'package:unicorn_ranch/game/game.dart';
 
 class FooterWidget extends StatelessWidget {
   const FooterWidget({

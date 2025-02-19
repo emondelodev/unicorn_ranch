@@ -3,9 +3,9 @@ import 'package:flame/game.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:ranch_ui/ranch_ui.dart';
-import 'package:very_good_ranch/game/game.dart';
-import 'package:very_good_ranch/game_menu/game_menu.dart';
-import 'package:very_good_ranch/l10n/l10n.dart';
+import 'package:unicorn_ranch/game/game.dart';
+import 'package:unicorn_ranch/game_menu/game_menu.dart';
+import 'package:unicorn_ranch/l10n/l10n.dart';
 
 import '../../helpers/helpers.dart';
 

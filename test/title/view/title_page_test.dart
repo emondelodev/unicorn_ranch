@@ -6,10 +6,10 @@ import 'package:flutter_test/flutter_test.dart';
 import 'package:mockingjay/mockingjay.dart';
 import 'package:ranch_sounds/ranch_sounds.dart';
 import 'package:ranch_ui/ranch_ui.dart';
-import 'package:very_good_ranch/game_menu/game_menu.dart';
-import 'package:very_good_ranch/l10n/l10n.dart';
-import 'package:very_good_ranch/loading/cubit/preload/preload_cubit.dart';
-import 'package:very_good_ranch/title/title.dart';
+import 'package:unicorn_ranch/game_menu/game_menu.dart';
+import 'package:unicorn_ranch/l10n/l10n.dart';
+import 'package:unicorn_ranch/loading/cubit/preload/preload_cubit.dart';
+import 'package:unicorn_ranch/title/title.dart';
 
 import '../../helpers/helpers.dart';
 
